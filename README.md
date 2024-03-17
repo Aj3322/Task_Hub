@@ -34,7 +34,7 @@ To use Task Hub and leverage its powerful features, follow these steps:
 1. **Clone Repository**: Clone the Task Hub repository to your local machine using Git.
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Aj3322/Task_Hub.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install dependencies using Flutter's package manager.
